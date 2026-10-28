@@ -1,0 +1,31 @@
+games/snowrider/src/data.c
+  s_013992d6cdbbf9::t_dbefa36cdfef53 1149,1489-1503
+games/snowrider/src/data.h
+  s_013992d6cdbbf9::t_976811964aba09 19-21,28,67
+games/snowrider/src/game.c
+  s_013992d6cdbbf9::t_dd20d53722243a 185-192,194
+games/snowrider/src/sr.h
+  s_013992d6cdbbf9::t_fd8b9381d344ba 67,69,71-72,74
+games/snowrider/src/world.c
+  s_013992d6cdbbf9::t_78c92030f9d33b 25-26,28-29,32-33,80-85,89,95,164-167,217-220,224,226-233,248,267,279,297-300,304-309,312,316,320-341,343-350
+games/snowrider/tests/play.c
+  s_013992d6cdbbf9::t_466326f1bbbee2 94-111,212
+games/snowrider/tools/gen.py
+  s_013992d6cdbbf9::t_3d42cb8ceb4dea 271-272,348,413,487-488,490,530-532,539,559
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "eeaf00efffa358635e5cba930b2c82b5e052c5cb",
+  "prompts": {},
+  "sessions": {
+    "s_013992d6cdbbf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9486b70c-5198-4f3f-9528-0f434a1f3f39",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
