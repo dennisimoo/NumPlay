@@ -1,0 +1,53 @@
+games/snowrider/src/data.c
+  s_013992d6cdbbf9::t_dbefa36cdfef53 1149,1489-1503
+  s_013992d6cdbbf9::t_47e89177116fc6 814-815,824-825,832-833,836-837,852-853,862-863,876,881,885,887,895,900
+  s_013992d6cdbbf9::t_b3a4a47b178f02 272-279,704-705
+games/snowrider/src/data.h
+  s_013992d6cdbbf9::t_976811964aba09 19-21,28,67
+  s_013992d6cdbbf9::t_1d26b59050ca64 69-70
+games/snowrider/src/game.c
+  s_013992d6cdbbf9::t_dd20d53722243a 188-195,197
+  s_013992d6cdbbf9::t_56730b85d3e5cf 65-67,321,331,333-342,345,392-407,412,451,475,503,555,578
+  s_013992d6cdbbf9::t_5e82264a015420 4,171
+games/snowrider/src/sr.h
+  s_013992d6cdbbf9::t_fd8b9381d344ba 67,69,71-72,74
+  s_013992d6cdbbf9::t_4bd84f5746751b 101
+games/snowrider/src/world.c
+  s_013992d6cdbbf9::t_78c92030f9d33b 25-26,28-29,32-33,80-85,89,95,164-167,217-220,224,226-233,248,267,279,297-300,304-309,312,316,320-341,343-350
+  s_013992d6cdbbf9::t_38dd01887cf8e2 489
+games/snowrider/tests/play.c
+  s_013992d6cdbbf9::t_466326f1bbbee2 95-112,241
+  s_013992d6cdbbf9::t_aa89183923424c 144-171
+  s_013992d6cdbbf9::t_39679dcf77fb22 18,244
+  s_013992d6cdbbf9::t_05451a6d0c3d63 291-292
+games/snowrider/tools/gen.py
+  s_013992d6cdbbf9::t_3d42cb8ceb4dea 270-271,347,415,489-490,492,532-534,541,561
+  s_013992d6cdbbf9::t_80ed18945f0b81 200,202,405-407
+  s_013992d6cdbbf9::t_5a470b91387a7f 109
+games/snowrider/Makefile
+  s_013992d6cdbbf9::t_515ce0e631c35e 5-6
+games/snowrider/src/draw.c
+  s_013992d6cdbbf9::t_9e95ebce7dc4a2 14,18,78-85,143,153,160-161,163-168,185,195,197,201-202,204-206,360-361,364-365,367,369-377,398
+games/snowrider/src/r3d.c
+  s_013992d6cdbbf9::t_331fed9b1f32fb 91,97,102,151-153
+games/snowrider/src/r3d.h
+  s_013992d6cdbbf9::t_b86565f6861c5b 104
+games/snowrider/README.md
+  s_013992d6cdbbf9::t_10fd3a183e503e 27,73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1b81b823c740f62243e4ac886300a2ee6317b01e",
+  "prompts": {},
+  "sessions": {
+    "s_013992d6cdbbf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9486b70c-5198-4f3f-9528-0f434a1f3f39",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
