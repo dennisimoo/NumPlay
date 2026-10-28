@@ -1,0 +1,19 @@
+games/snowrider/src/world.c
+  s_013992d6cdbbf9::t_38dd01887cf8e2 489
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b217d38bb87bdc4eeaff3f788d6ab9397bffeb30",
+  "prompts": {},
+  "sessions": {
+    "s_013992d6cdbbf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9486b70c-5198-4f3f-9528-0f434a1f3f39",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
