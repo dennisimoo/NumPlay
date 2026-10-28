@@ -1,0 +1,21 @@
+docs/play.md
+  s_013992d6cdbbf9::t_849a24d2e11e39 650-663
+README.md
+  s_013992d6cdbbf9::t_43bea6394cf238 9,140,143,361,390,487
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ae8f6815c71e794b5b3a409e6b0617e4ac3a58fc",
+  "prompts": {},
+  "sessions": {
+    "s_013992d6cdbbf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9486b70c-5198-4f3f-9528-0f434a1f3f39",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
