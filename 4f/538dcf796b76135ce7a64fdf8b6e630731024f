@@ -1,0 +1,126 @@
+games/snowrider/src/sr.c
+  s_013992d6cdbbf9::t_cd964ad2ee8709 1-93
+games/snowrider/tests/play.c
+  s_013992d6cdbbf9::t_dd609a434db7a4 1-6,12,17,19,25,27,35,47-134,137-184,186-190,192-203,206-208,212-222,227,231,247,249-259
+  s_013992d6cdbbf9::t_075544809ff2f2 232-236
+  s_013992d6cdbbf9::t_bcac9c2e22694e 20-22,29-34,36-46,135-136
+  s_013992d6cdbbf9::t_0070a5400d4453 185
+  s_013992d6cdbbf9::t_551456a9974776 7-11,13-16,18,204-205,209-211,223-226,228-230,237-241,243-246,248,260
+  s_013992d6cdbbf9::t_1f1e90f78fb8d1 23-24,26,28
+  s_013992d6cdbbf9::t_c380855b4f3921 191
+  s_013992d6cdbbf9::t_8542f1a16a6f17 242
+games/snowrider/Makefile
+  s_013992d6cdbbf9::t_7786616cd4a163 5-6,31,62-65,68
+  s_013992d6cdbbf9::t_551456a9974776 1-4,7-30,32-61,66-67,69-71
+games/snowrider/src/logo.c
+  s_013992d6cdbbf9::t_d8577fd2580ee2 1-5
+Makefile
+  s_013992d6cdbbf9::t_5fdc068b4d0bb5 21,32,330,369,406,484
+  s_013992d6cdbbf9::t_e31f16da7b676d 50
+tests/test_games.py
+  s_013992d6cdbbf9::t_5fdc068b4d0bb5 271-274,342-343,522-526
+tools/release.py
+  s_013992d6cdbbf9::t_e31f16da7b676d 56
+games/snowrider/src/data.c
+  s_013992d6cdbbf9::t_7815e7ab85d00b 1525-1535
+  s_013992d6cdbbf9::t_55b876cc257bf2 1-3,6,28-29,31-636,643,795-942,949,951,953,956,958,960,963,965,967,969,971,973,975-976,978-979,1069-1083,1085-1101,1103-1524,1536
+  s_013992d6cdbbf9::t_0c3efcaf818df1 4-5,7-27,30,637-642,644-794,943-948,950,952,954-955,957,959,961-962,964,966,968,970,972,974,977,980-1068,1084,1102,1537-1538
+games/snowrider/src/main.c
+  s_013992d6cdbbf9::t_551456a9974776 1-58
+games/snowrider/src/r3d.h
+  s_013992d6cdbbf9::t_4bd7d5fa213e94 1-74,77-128
+  s_013992d6cdbbf9::t_f0b7f11dba1c31 75-76
+games/snowrider/src/plat_eadk.c
+  s_013992d6cdbbf9::t_ab66165d45dd9f 12-19
+  s_013992d6cdbbf9::t_4bd7d5fa213e94 1-11,20-33
+games/snowrider/tools/logo.py
+  s_013992d6cdbbf9::t_d8577fd2580ee2 1-21
+games/snowrider/README.md
+  s_013992d6cdbbf9::t_37a918c9bd98d0 1-65,67,69,71-74,76-82,87-90,93
+  s_013992d6cdbbf9::t_3a03582b616d85 66,68,70,75,83-86,91-92
+games/games.json
+  s_013992d6cdbbf9::t_5fdc068b4d0bb5 680,702,926,947,1217-1235
+  s_013992d6cdbbf9::t_b8b1883c1434ca 1236-1237
+games/snowrider/src/save.c
+  s_013992d6cdbbf9::t_0070a5400d4453 92,97,99-102,104
+  s_013992d6cdbbf9::t_dc0c15abe33096 1-91,93-96,98,103,105-113
+games/snowrider/src/plat.h
+  s_013992d6cdbbf9::t_ab66165d45dd9f 1-32
+games/snowrider/src/sr.h
+  s_013992d6cdbbf9::t_5f2921a1d993a9 32
+  s_013992d6cdbbf9::t_cd964ad2ee8709 9
+  s_013992d6cdbbf9::t_b59cb1c382445a 96-97
+  s_013992d6cdbbf9::t_96eb2a2fa8ad6c 80-81,87,92,94-95,98
+  s_013992d6cdbbf9::t_37283950191631 1-8,10-31,33-79,82-86,88-91,93,99-122
+games/snowrider/.gitignore
+  s_013992d6cdbbf9::t_50a7d99cb8e9b7 1-2
+games/snowrider/src/game.c
+  s_013992d6cdbbf9::t_7786616cd4a163 233
+  s_013992d6cdbbf9::t_b59cb1c382445a 9,21-23,26-28,32-34,178,247,487-491,507-508
+  s_013992d6cdbbf9::t_3bf6b8d541e062 546
+  s_013992d6cdbbf9::t_3850dff5e63f1b 389-398,552-553
+  s_013992d6cdbbf9::t_fa44c4b005a629 202
+  s_013992d6cdbbf9::t_3de8dc55e57ddb 288-297
+  s_013992d6cdbbf9::t_c380855b4f3921 232,234-240
+  s_013992d6cdbbf9::t_8aa74299c6b1df 1-8,10-20,24-25,29-31,35-177,179-201,203-231,241-246,248-287,298-388,399-486,492-506,509-545,547-551,554-555
+games/snowrider/src/save.h
+  s_013992d6cdbbf9::t_0070a5400d4453 25
+  s_013992d6cdbbf9::t_597d15ae05b42e 1-24,26-27
+games/snowrider/src/r3d.c
+  s_013992d6cdbbf9::t_f0b7f11dba1c31 7-8,288,292
+  s_013992d6cdbbf9::t_4bd7d5fa213e94 1-3,5,9-287,289-291,293-626
+  s_013992d6cdbbf9::t_eca5ea75826335 4,6
+games/snowrider/src/world.c
+  s_013992d6cdbbf9::t_5f2921a1d993a9 82,84-85,172-175,238
+  s_013992d6cdbbf9::t_241d2edd9ed18f 1-81,83,86-171,176-190,192-237,239-405,408-502
+  s_013992d6cdbbf9::t_fa44c4b005a629 191
+  s_013992d6cdbbf9::t_35c761ab165213 406-407
+games/snowrider/src/plat_host.c
+  s_013992d6cdbbf9::t_4bd7d5fa213e94 1-66
+games/snowrider/src/data.h
+  s_013992d6cdbbf9::t_55b876cc257bf2 1-44,46-84
+  s_013992d6cdbbf9::t_b561a3cb48c72c 45
+games/snowrider/tools/gen.py
+  s_013992d6cdbbf9::t_b561a3cb48c72c 545
+  s_013992d6cdbbf9::t_bd1b4f1efa1f40 18-19,21-33,136
+  s_013992d6cdbbf9::t_3850dff5e63f1b 106
+  s_013992d6cdbbf9::t_d879fa18be8ea0 408-409
+  s_013992d6cdbbf9::t_00472c6e2d0608 464-465,470
+  s_013992d6cdbbf9::t_07c3475fe2f2f4 1-17,20,34-105,107-135,159-160,163-171,177-178,180-181,183-184,189-278,280,282-373,379-407,410-463,466-469,471-544,546-569
+  s_013992d6cdbbf9::t_e8c53caf16339f 137-158,161-162,172-176,179,182,185-188,279,281,374-378
+.github/workflows/build.yml
+  s_013992d6cdbbf9::t_5fdc068b4d0bb5 95
+games/snowrider/tools/decimate.py
+  s_013992d6cdbbf9::t_d879fa18be8ea0 1
+  s_013992d6cdbbf9::t_256a85c579fd88 2-193
+games/snowrider/src/draw.c
+  s_013992d6cdbbf9::t_b59cb1c382445a 362-370
+  s_013992d6cdbbf9::t_ae1561c3ec3619 248-261,311-312
+  s_013992d6cdbbf9::t_f0b7f11dba1c31 83-84,90,117,140-148,150-163,174-176,262-273,278-295,297-300,305-308,385
+  s_013992d6cdbbf9::t_9d8a69706a9014 314,320-322,324
+  s_013992d6cdbbf9::t_35d84c38beeae4 13
+  s_013992d6cdbbf9::t_b561a3cb48c72c 17,35-36
+  s_013992d6cdbbf9::t_45c831c70225b2 1-12,14-16,18-34,37-82,85-89,91-107,109-114,116,118-139,164-173,177-247,301-304,309-310,313,319,323,325-328,330-361,371-384,386-387
+  s_013992d6cdbbf9::t_3bf6b8d541e062 108,115
+  s_013992d6cdbbf9::t_fa44c4b005a629 149,274-277
+  s_013992d6cdbbf9::t_3850dff5e63f1b 315-318,329
+  s_013992d6cdbbf9::t_4530f585f1e470 296
+games/snowrider/tools/unity.py
+  s_013992d6cdbbf9::t_ed39070649ba45 1-199
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4f538dcf796b76135ce7a64fdf8b6e630731024f",
+  "prompts": {},
+  "sessions": {
+    "s_013992d6cdbbf9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9486b70c-5198-4f3f-9528-0f434a1f3f39",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
